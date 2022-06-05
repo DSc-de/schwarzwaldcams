@@ -1,0 +1,828 @@
+[
+  {
+    "url"           : "http://webcam.land-in-sicht.com/gemeinde_schluchsee/schluchsee-aquafun640.jpg",
+    "page"          : "http://bollencam.de",
+    "name"          : "Schluchsee",
+    "description"   : "",
+    "location"      : ""
+  },
+  {
+    "url"           : "https://www.titiseeblick.de/webcam/titiseeblick.jpg",
+    "page"          : "https://www.titiseeblick.de/webcam.htm",
+    "name"          : "Titisee",
+    "description"   : "",
+    "location"      : ""
+  },
+  {
+    "url"           : "https://www.ganterweb.de/hotel/cam.jpg",
+    "page"          : "https://hotel-brugger.de/",
+    "name"          : "Titisee",
+    "description"   : "",
+    "location"      : ""
+  },
+  {
+    "url"           : "https://webcams.ftp-land-in-sicht.de/feldberg/webcam-seebuck640.jpg",
+    "page"          : "https://www.liftverbund-feldberg.de/service/webcam",
+    "name"          : "Feldberg Seebuck",
+    "description"   : "Bergstation Feldbergbahn",
+    "location"      : ""
+  },
+  {
+    "url"           : "https://webcam.auerhahn-onlineshop.de/webcam/seibelseckle-webcam-lift.jpg",
+    "page"          : "https://www.seibelseckle.de/webcam-wetter.php",
+    "name"          : "Seibelseckle Skilift",
+    "description"   : "",
+    "location"      : ""
+  },
+  {
+    "url"           : "https://webcam.auerhahn-onlineshop.de/webcam/seibelseckle-webcam-bergstation.jpg",
+    "page"          : "https://www.seibelseckle.de/webcam-wetter.php",
+    "name"          : "Seibelseckle Skilift",
+    "description"   : "",
+    "location"      : "Bergstation Skilift Seibelseckle"
+  },
+  {
+    "url"           : "https://webcam.auerhahn-onlineshop.de/webcam/seibelseckle-webcam-huette.jpg",
+    "page"          : "https://www.seibelseckle.de/webcam-wetter.php",
+    "name"          : "Rasthütte Seibelseckle",
+    "description"   : "",
+    "location"      : "Rasthütte Seibelseckle"
+  },
+  {
+    "url"           : "https://www.wellnesshotel-rothfuss.de/clips/get_webcam.php",
+    "page"          : "https://www.wellnesshotel-rothfuss.de/de/webcam-bad-wildbad/",
+    "name"          : "Bad Wildbad",
+    "description"   : "Blick über die VitalTherme in Bad Wildbad Richtung Calmbach",
+    "location"      : "Hotel Rothfuss"
+  },
+  {
+    "url"           : "https://v.angelcam.com/iframe?v=b91rxj66yo",
+    "page"          : "https://www.bad-wildbad.de/de/webcam/",
+    "name"          : "Bad Wildbad Kurplatz",
+    "description"   : "Die schwenkbare Kamera zeigt den Eingang Kurpark Bad Wildbad, die Enz und das Forum König-Kars-Bad.",
+    "location"      : "Kurhaus Bad Wildbad"
+  },
+  {
+    "url"           : "https://webcam.itteleservice.de/webcams/baiersbronn-webcam/webcambaiersbronn/webcam.jpg",
+    "page"          : "https://www.baiersbronn.de/de-de/service/webcams",
+    "name"          : "Baiersbronn Stöckerkopf",
+    "description"   : "Blick über Baiersbronn auf den Rinkenkopf und das Murgtal",
+    "location"      : "Stöckerkopf Baiersbronn an der Glasmännlehütte"
+  },
+  {
+    "url"           : "https://www.bareiss.com/sattelei_webcam.jpg",
+    "page"          : "",
+    "name"          : "Wanderhütte Sattelei Baiersbronn",
+    "description"   : "Blick auf die Wanderhütte Sattelei Baiersbronn",
+    "location"      : "Wanderhütte Sattelei"
+  },
+  {
+    "url"           : "https://www.bareiss.com/fischzucht_webcam.jpg",
+    "page"          : "",
+    "name"          : "Forellenhof Buhlbach Baiersbronn",
+    "description"   : "Blick auf den Forellenhof Buhlbach Baiersbronn",
+    "location"      : "Forellenhof Obertal-Buhlbach Baiersbronn"
+  },
+  {
+    "url"           : "http://www.dg-klosterreichenbach.de/webcam/bilder/webcam.jpg",
+    "page"          : "",
+    "name"          : "Rosenberg Klosterreichenbach",
+    "description"   : "Blick über den Skihang nach Klosterreichenbach",
+    "location"      : "Skilift Rosenberg Klosterreichenbach"
+  },
+  {
+    "url"           : "https://www.naturbad-mitteltal.de/fileadmin/webcam/web-cams/cam1/current.jpg",
+    "page"          : "https://www.naturbad-mitteltal.de/webcams",
+    "name"          : "Naturbad Mitteltal",
+    "description"   : "Blick auf das Naturbad Mitteltal in Baiersbronn",
+    "location"      : "Naturbad Mitteltal Baiersbronn"
+  },
+  {
+    "url"           : "https://www.naturbad-mitteltal.de/fileadmin/webcam/web-cams/cam2/current.jpg",
+    "page"          : "https://www.naturbad-mitteltal.de/webcams/",
+    "name"          : "Naturbad Mitteltal",
+    "description"   : "Blick auf das Naturbad Mitteltal in Baiersbronn",
+    "location"      : "Naturbad Mitteltal Baiersbronn"
+  },
+  {
+    "url"           : "https://www.grindehuette.de/webcam-grindehuette.jpg",
+    "page"          : "",
+    "name"          : "Hornisgrinde",
+    "description"   : "Blick vom Hornisgrinde Turm",
+    "location"      : "Hornisgrinde Turm"
+  },
+  {
+    "url"           : "https://www.grindehuette.de/webcam-grindehuette-rheinebene.jpg",
+    "page"          : "",
+    "name"          : "Hornisgrinde",
+    "description"   : "Blick von der Grindhütte auf der Hornisgrinde",
+    "location"      : "Grindhütte Hornisgrinde"
+  },
+  {
+    "url"           : "http://webcam-stpeter.zweihochdrei.ch/webcam.jpg",
+    "page"          : "http://www.st-peter-schwarzwald.de/webcam.html",
+    "name"          : "St. Peter",
+    "description"   : "Blick auf St. Peter mit Kirche und Klosterhof, Rathaus und Ursula-Kapelle",
+    "location"      : "Lehrfeld St. Peter"
+  },
+  {
+    "url"           : "https://webcam.auerhahn-onlineshop.de/webcam/forsthaus-auerhahn-webcam.jpg",
+    "page"          : "https://www.forsthaus-auerhahn.de/de/aktuelles/webcam/https://www.forsthaus-auerhahn.de/de/aktuelles/webcam/",
+    "name"          : "Forsthaus Auerhahn",
+    "description"   : "Blick auf das Hotel Forsthaus Auerhahn",
+    "location"      : "Hotel Forsthaus Auerhahn in Hinterlangenbach"
+  },
+  {
+    "url"           : "https://belchen.it-wms.com/wmspanoviewer.php?lang=de",
+    "page"          : "https://www.belchen-seilbahn.de/webcam.html",
+    "name"          : "Belchen",
+    "description"   : "Blick vom Gipfel des Belchen mit Bergstation der Belchen Seilbahn. Einige der weiteren sichtbaren Gipfel: Feldberg, Herzogenhorn, Spitzkopf",
+    "location"      : "Belchenhaus Bergstation Belchen Seilbahn"
+  },
+  {
+    "url"           : "http://www.alte.belchen-seilbahn.de/webcamtal/webcamtal.jpg",
+    "page"          : "https://www.belchen-seilbahn.de/webcam.html",
+    "name"          : "Belchen Seilbahn Talsation",
+    "description"   : "Blick auf den unteren Teil der Belchen Seilbahn",
+    "location"      : "Talstation der Belchen Seilbahn"
+  },
+  {
+    "url"           : "http://www.alte.belchen-seilbahn.de/webcam/rechts.jpg",
+    "page"          : "https://www.belchen-seilbahn.de/webcam.html",
+    "name"          : "Belchen",
+    "description"   : "Blick auf den Belchen Gipfel vom Belchenhaus aus",
+    "location"      : "Belchenhaus and der Bergstation der Belchen Seilbahn"
+  },
+  {
+    "url"           : "http://webcam.berghotel-mummelsee.de/webcam-nixe/image.jpg",
+    "page"          : "https://www.mummelsee.de/informationen/webcam-2/",
+    "name"          : "Mummelsee Nixe",
+    "description"   : "Blick auf die Nixe in Mitten des Mummelsees",
+    "location"      : "Mumellsee Ufer"
+  },
+  {
+    "url"           : "https://webcam.mummelsee.de/webcam/webcam/current_640x480.jpg",
+    "page"          : "https://www.mummelsee.de/informationen/webcam-2/",
+    "name"          : "Mummelsee",
+    "description"   : "Blick auf den Mummelsee über die Terasse des Hotels",
+    "location"      : "Dach des Berghotels Mummelsee"
+  },
+  {
+    "url"           : "https://www.freilichtbuehne-hornberg.de/fileadmin/webcam/webcam.jpg",
+    "page"          : "https://www.freilichtbuehne-hornberg.de/live-bild",
+    "name"          : "Freilichtbühne Hornberg",
+    "description"   : "Blick auf die Erwin-Leisinger-Bühne in Hornberg",
+    "location"      : "Freilichtbühne Hornberg"
+  },
+  {
+    "url"           : "https://www.hornberg.de/tools/webcams/webcam1/current.jpg",
+    "page"          : "https://www.hornberg.de/webcam",
+    "name"          : "Hornberg",
+    "description"   : "Blick über die Hauptstraße und Innenstadt von Hornberg",
+    "location"      : "Tourist-Information Hornberg"
+  },
+  {
+    "url"           : "https://www.peterstaler.de/fileadmin/cam/cam.jpg",
+    "page"          : "https://www.peterstaler.de",
+    "name"          : "Peterstaler Mineralquelle",
+    "description"   : "Blick auf das Firmengelände der Peterstaler Mineralquellen un die öffentlich zugängliche Queelle",
+    "location"      : "Peterstaler Mineralquellen"
+  },
+  {
+    "url"           : "https://webcam.bad-peterstal-griesbach.de/Webcam_Herbstwasen.jpg",
+    "page"          : "https://www.bad-peterstal-griesbach.de/de/p/wetter-und-webcams/53353708/",
+    "name"          : "Bad Peterstal-Griesbach",
+    "description"   : "Blick vom Höhengasthaus Herbstwasen",
+    "location"      : "Höhengasthaus Herbstwasen"
+  },
+  {
+    "url"           : "https://webcams.ftp-land-in-sicht.de/feldberg/webcam-feldberg640.jpg",
+    "page"          : "https://www.liftverbund-feldberg.de/service/webcam",
+    "name"          : "Feldberg Gipfel",
+    "description"   : "Blick vom Feldbergturm in Richtung Feldberg Gipfel",
+    "location"      : "Feldbergturm"
+  },
+  {
+    "url"           : "https://www.feldberger-hof.de/static/webcam/fh-dach1280.jpg",
+    "page"          : "https://www.feldberger-hof.de",
+    "name"          : "Feldberger Hof",
+    "description"   : "Block vom Dach des Feldberger Hof in Richtung Feldberg Seebuck (Gipfel). Skilifte und Pisten am Seebuck.",
+    "location"      : "Feldberger Hof"
+  },
+  {
+    "url"           : "https://webcams.ftp-land-in-sicht.de/feldberg/webcam-talstation-seebuck640.jpg",
+    "page"          : "https://www.liftverbund-feldberg.de/service/webcam",
+    "name"          : "Feldbergbahn",
+    "description"   : "Blick von der Talstation der Feldbergbahn am Seebuck",
+    "location"      : "Seebuck"
+  },
+  {
+    "url"           : "https://www.webcam.feldberg-loipen.de/webcam.jpg",
+    "page"          : "https://www.todtnauer-huette.de/webcam/",
+    "name"          : "Todtnauer Hütte",
+    "description"   : "Blick von der Todtnauer Hütte am Feldberg in 1320 Meter Höhe",
+    "location"      : "Todtnauer Hütte"
+  },
+  {
+    "url"           : "https://webcam.hirsch-woelfl.de/stblasien/webcam/menzenhuette.jpg",
+    "page"          : "https://www.stblasien.de/stadt-handel/webcams",
+    "name"          : "Menzenschwander Hütte",
+    "description"   : "Blick auf die Zeigerbahn am Feldberg",
+    "location"      : "Menzenschwander Hütte"
+  },
+  {
+    "url"           : "https://webcam.hirsch-woelfl.de/stblasien/webcam/zeigerbahn.jpg",
+    "page"          : "https://www.stblasien.de/stadt-handel/webcams",
+    "name"          : "Menzenschwander Hütte",
+    "description"   : "Blick auf die Zeiger Abfahrt am Feldberg",
+    "location"      : "Menzenschwander Hütte"
+  },
+  {
+    "url"           : "https://webcam-radon.ftp-land-in-sicht.de/radonrevitalbad/radonrevitalbadmega.jpg",
+    "page"          : "https://www.radonrevitalbad.de/Info-Service/Ueber-uns/Webcam",
+    "name"          : "Radon Revital Bad",
+    "description"   : "Blick auf das Radon Revital Bad in St. Blasien",
+    "location"      : "Radon Revital Bad St. Blasien"
+  },
+  {
+    "url"           : "https://webcam.hirsch-woelfl.de/stblasien/webcam/kreuz.jpg",
+    "page"          : "https://www.stblasien.de/stadt-handel/webcams",
+    "name"          : "St. Blasien",
+    "description"   : "Blick über die Stadt St. Blasien vom Weißensteinkreuz aus",
+    "location"      : "St. Blasien Weißensteinkreuz"
+  },
+  {
+    "url"           : "https://webcam.hirsch-woelfl.de/stblasien/webcam/grafenmatt.jpg",
+    "page"          : "https://www.stblasien.de/stadt-handel/webcams",
+    "name"          : "Feldberg Passhöhe",
+    "description"   : "Blick auf die Skipisten am Grafenmatt",
+    "location"      : "Parkplatz Feldberg Passhöhe"
+  },
+  {
+    "url"           : "https://webcam.hirsch-woelfl.de/stblasien/webcam/schwinbach.jpg",
+    "page"          : "https://www.stblasien.de/stadt-handel/webcams",
+    "name"          : "Schwinbach Skilift",
+    "description"   : "Blick auf den Schwinbach Skilift, Teils des Skigebiets Spießhorn Menzenschwand",
+    "location"      : "Talstation Schwinbach Skilift"
+  },
+  {
+    "url"           : "https://webcam.hirsch-woelfl.de/stblasien/webcam/moesle.jpg",
+    "page"          : "https://www.stblasien.de/stadt-handel/webcams",
+    "name"          : "Skilift Mösle",
+    "description"   : "Blick von der Bergstation des Skilift Mösle, Teil des Skigebiets Spießhorn Menzenschwand",
+    "location"      : "Bergstation Skilift Mösle"
+  },
+  {
+    "url"           : "https://webcam.hirsch-woelfl.de/stblasien/webcam/rehbach.jpg",
+    "page"          : "https://www.stblasien.de/stadt-handel/webcams",
+    "name"          : "Skilift Rehbach",
+    "description"   : "Blick von der Bergstation des Skilifts Rehbach, Teil des Skigebiets Spießhorn Menzenschand",
+    "location"      : "Bergstation Skilift Rehbach"
+  },
+  {
+    "url"           : "https://webcams.liebenzell.org/MIB-FAH-WebCam.jpg",
+    "page"          : "https://www.liebenzell.org/service/webcam/",
+    "name"          : "Bad Liebenzell",
+    "description"   : "Blick von der Liebenzeller Mission über die Stadt Bad Liebenzell. Im Hintergrund ist die Burg Liebenzell zu sehen.",
+    "location"      : "Liebenzeller Mission"
+  },
+  {
+    "url"           : "https://webcams.liebenzell.org/MIB-VW-WebCam.jpg",
+    "page"          : "https://www.liebenzell.org/service/webcam/",
+    "name"          : "Bad Liebenzell",
+    "description"   : "Blick von der Liebenzeller Mission über die Stadt Bad Liebenzell. Im Hintergrund ist die Burg Liebenzell zu sehen.",
+    "location"      : "Liebenzeller Mission"
+  },
+  {
+    "url"           : "https://webcams.liebenzell.org/MBT-GH3-WebCam.jpg",
+    "page"          : "https://www.liebenzell.org/service/webcam/",
+    "name"          : "Monbachtal Bad Liebenzell",
+    "description"   : "Blick auf die Anlage der Liebenzeller Mission",
+    "location"      : "Monbachtal"
+  },
+  {
+    "url"           : "https://webcam-schoemberg.selfhost.me/image/webcam.jpg",
+    "page"          : "https://webcam-schoemberg.de/",
+    "name"          : "Schömberg",
+    "description"   : "Blick über Schömberg",
+    "location"      : "Beethovenstraße Schömberg"
+  },
+  {
+    "url"           : "https://himmelsglueck.webcam-schoemberg.de/image/turm.jpg",
+    "page"          : "https://himmelsglueck.webcam-schoemberg.de/",
+    "name"          : "Himmelsglück Schömberg",
+    "description"   : "Blick auf den Aussichtstrum Himmelsglück in Schämberg",
+    "location"      : "Beethovenstraße Schömberg"
+  },
+  {
+    "url"           : "https://www.pmes-dienstleistungen.de/assets/images/live-768x576.jpg",
+    "page"          : "https://www.pmes-dienstleistungen.de/page3.html",
+    "name"          : "Oberreichenbach Igelsloch",
+    "description"   : "Blick auf die Schömberger Straße in Igelsloch, Oberreichenbach",
+    "location"      : "Schömberger Straße Igelsloch, Oberreichenbach"
+  },
+  {
+    "url"           : "https://webtv.feratel.com/webtv/?cam=3232&amp;t=9&amp;design=v3&amp;c0=0&amp;c2=1&amp;lg=de&amp;s=0",
+    "page"          : "https://www.teinachtal.de/de/aktuelles/wetter/webcam/",
+    "name"          : "Zavelstein, Bad Teinach",
+    "description"   : "360 Grad Rundblick über über Zavelstein mit St. Georgkirche und Burgruine.",
+    "location"      : "Im Städtle, Zavelstein"
+  },
+  {
+    "url"           : "https://webcam.hirsch-woelfl.de/stblasien/webcam/sparkasse.jpg",
+    "page"          : "https://www.stblasien.de/stadt-handel/webcams",
+    "name"          : "St. Blasien",
+    "description"   : "Blick von der Sparkasse in die Innenstadt von St. Blasien mit Hauptstraße, Dom und dem Fluß Alb",
+    "location"      : "Bernau-Menzenschwander-Straße St. Blasien"
+  },
+  {
+    "url"           : "https://webcam.hirsch-woelfl.de/stblasien/webcam/domplatz.jpg",
+    "page"          : "https://www.stblasien.de/stadt-handel/webcams",
+    "name"          : "St. Blasien Dom",
+    "description"   : "Block auf den Dom in St. Blasien mit Domplatz und Blasiusbrunnen.",
+    "location"      : "Dom Hotel St. Blasien"
+  },
+  {
+    "url"           : "https://webcam.hirsch-woelfl.de/stblasien/webcam/christuskirche.jpg",
+    "page"          : "https://www.stblasien.de/stadt-handel/webcams",
+    "name"          : "St. Blasien",
+    "description"   : "Christuskirche St. Blasien",
+    "location"      : "Christuskirche St. Blasien"
+  },
+  {
+    "url"           : "https://webcam.hirsch-woelfl.de/stblasien/webcam/menzenschwand.jpg",
+    "page"          : "https://www.stblasien.de/stadt-handel/webcams",
+    "name"          : "Menzenschwand Hinterdorf",
+    "description"   : "Blick vom Rathaus über Hinterdorf",
+    "location"      : "Rathaus Hinterdorf, Menzenschwand"
+  },
+  {
+    "url"           : "http://gaestehaus-kaiser.de/webcam-menzenschwand/gaestehaus-kaiser-cam.jpg",
+    "page"          : "http://www.gaestehaus-kaiser.de/webcam-menzenschwand/index.html",
+    "name"          : "Menzenschwand Hinterdorf",
+    "description"   : "Block vom Gästehaus Kaiser am Ortsrand Hinterdorf Richtung Vorderdorf, Menzenschwand",
+    "location"      : "Gästehaus Kaiser Hinterdorf, Menzenschwand"
+  },
+  {
+    "url"           : "http://gaestehaus-kaiser.de/webcam-menzenschwand/Krunkelbachcam-neu/Snapshot/Krunkelbachcam-neu.jpg",
+    "page"          : "http://www.gaestehaus-kaiser.de/webcam-menzenschwand/index.html",
+    "name"          : "Menzenschwand Hinterdorf",
+    "description"   : "Blick vom Gästehaus Kaiser zum Mösle Skilift, Menzenschwand",
+    "location"      : "Gästehaus Kaiser Hinterdorf, Menzenschwand"
+  },
+  {
+    "url"           : "http://bonndorf.fotonetz.com/img/image.jpg",
+    "page"          : "http://bonndorf.fotonetz.com/",
+    "name"          : "Bonndorf",
+    "description"   : "Blick über Bonndorf",
+    "location"      : "Bonndorf"
+  },
+  {
+    "url"           : "https://webcam.jestetten.de/record/current.jpg",
+    "page"          : "https://www.jestetten.de/gemeinde-jestetten/impressionen/webcam",
+    "name"          : "Jestetten",
+    "description"   : "Blick über Jestetten Ortsmitte",
+    "location"      : "Rathaus Jestetten"
+  },
+  {
+    "url"           : "https://www.nagold.de/webcam/livebild.jpg",
+    "page"          : "https://www.nagold.de/nagold-webcam",
+    "name"          : "Nagold",
+    "description"   : "Blick vom Rathaus über die Marktstraße in der Innenstadt Nagold",
+    "location"      : "Rathaus Nagold"
+  },
+  {
+    "url"           : "https://www.schiltach.de/tools/webcamPreview/webcam.php",
+    "page"          : "https://www.schiltach.de/de/Aktuell/Neues-aus-Schiltach/WebCam-Wetter-Hochwasser",
+    "name"          : "Schiltach",
+    "description"   : "Blick aus dem Rathaus Dachgeschoss Shiltach. Zu sehen ist der Marktplatz mit Kinzigtal im Hintergrund.",
+    "location"      : "Rathaus Schiltach"
+  },
+  {
+    "url"           : "https://webcams-hausach.ftp-land-in-sicht.de/webcam/current113.jpg",
+    "page"          : "https://www.hausach.de/freizeit-kultur-tourismus/hausach-virtuell/webcams",
+    "name"          : "Hausach",
+    "description"   : "Blick Richtung Westen zum Hechtsberg",
+    "location"      : "Burgturm Husen"
+  },
+  {
+    "url"           : "https://webcams-hausach.ftp-land-in-sicht.de/webcam/current114.jpg",
+    "page"          : "https://www.hausach.de/freizeit-kultur-tourismus/hausach-virtuell/webcams",
+    "name"          : "Hausach",
+    "description"   : "Blick Richtung Nord Einbachtal mit Brandenkopf",
+    "location"      : "Burgturm Husen"
+  },
+  {
+    "url"           : "https://webcams-hausach.ftp-land-in-sicht.de/webcam/current111.jpg",
+    "page"          : "https://www.hausach.de/freizeit-kultur-tourismus/hausach-virtuell/webcams",
+    "name"          : "Hausach",
+    "description"   : "Blick Richtung Nord-Ost, Hegerfeld",
+    "location"      : "Burgturm Husen"
+  },
+  {
+    "url"           : "https://webcams-hausach.ftp-land-in-sicht.de/webcam/current112.jpg",
+    "page"          : "https://www.hausach.de/freizeit-kultur-tourismus/hausach-virtuell/webcams",
+    "name"          : "Hausach",
+    "description"   : "Blick Richtung Osten über die Innenstadt von Hausach",
+    "location"      : "Burgturm Husen"
+  },
+  {
+    "url"           : "https://webcam.wolfach.de/record/current.jpg",
+    "page"          : "https://www.wolfach.info/praktische-Infos/Webcam-Wetter",
+    "name"          : "Wolfach",
+    "description"   : "Blick über die Altstadt von Wolfach mit Kinziganlagen, Schloss und Vorstadt. Ebenfalls zu sehen der Reuterberg und große Kinzigbogen.",
+    "location"      : "Stuckhäusle Wolfach"
+  },
+  {
+    "url"           : "https://www.elztal-wetter-data.de/WebcamRG/image.jpg",
+    "page"          : "https://www.elztal-wetter.de",
+    "name"          : "Yach Rauchengrund",
+    "description"   : "Blick oberhalb von Yach in einem Seitental des Elztals",
+    "location"      : "Rauchengrund, Yacht"
+  },
+  {
+    "url"           : "https://www.elztal-wetter-data.de/WebcamSR/image.jpg",
+    "page"          : "https://www.elztal-wetter.de",
+    "name"          : "Sommerrain Yach",
+    "description"   : "Blick über Yach in einem Seitental des Elztals",
+    "location"      : "Yach Sommerrain"
+  },
+  {
+    "url"           : "https://www.biederbach.de/biederbach/webcam/baereneckle/baehreneckle.jpg",
+    "page"          : "https://www.biederbach.de/start/dein+urlaub/webcams.html",
+    "name"          : "Biederbach",
+    "description"   : "Blick vom Gasthaus Zum Bäreneckle, Selbig, Biederbach",
+    "location"      : "Gasthaus Zum Bäreneckle"
+  },
+  {
+    "url"           : "https://www.biederbach.de/biederbach/webcam/kreuz/kreuz.jpg",
+    "page"          : "https://www.biederbach.de/start/dein+urlaub/webcams.html",
+    "name"          : "Biederbach",
+    "description"   : "Blick vom Höhengasthaus zum Kreuz, Höhenhäuser, Biederbach",
+    "location"      : "Höhengasthaus zum Kreiz"
+  },
+  {
+    "url"           : "https://www.biederbach.de/biederbach/webcam/pelzmuehle/pelzmuehle.jpg",
+    "page"          : "https://www.biederbach.de/start/dein+urlaub/webcams.html",
+    "name"          : "Biederbach",
+    "description"   : "Blick vom Landgasthof Adler-Pelzmühle, Pelzmühle, Biederbach",
+    "location"      : "Landgasthof Adler-Pelzmühle"
+  },
+  {
+    "url"           : "https://www.biederbach.de/biederbach/webcam/sonnhalde/sonnhalde.jpg",
+    "page"          : "https://www.biederbach.de/start/dein+urlaub/webcams.html",
+    "name"          : "Biederbach",
+    "description"   : "Blick vom Gasthaus Sonnhalde, Sonnhaldestraße, Biederbach",
+    "location"      : "Gasthaus Sonnhalde"
+  },
+  {
+    "url"           : "https://www.biederbach.de/biederbach/webcam/jaegle/jaegle.jpg",
+    "page"          : "https://www.biederbach.de/start/dein+urlaub/webcams.html",
+    "name"          : "Biederbach",
+    "description"   : "Blick über Biederbach",
+    "location"      : "Dobelhof Biederbach"
+  },
+  {
+    "url"           : "https://elztal.net/ftp-burg/kburg.php",
+    "page"          : "https://www.elztal.net/webcam/index.php",
+    "name"          : "Kastelburg Waldkrich",
+    "description"   : "Blick auf die Ruinte Kastelburg in Waldkirch",
+    "location"      : "Ruinte Kastelburg"
+  },
+  {
+    "url"           : "https://www.stadt-waldkirch.de/site/Waldkirch/get/params_E453434212/2192184/currentFR.jpg",
+    "page"          : "https://www.stadt-waldkirch.de/site/Waldkirch/node/2192170",
+    "name"          : "Waldkirch",
+    "description"   : "Blick von der Ruine Kastelburg über Waldkirch Richtung Freiburg",
+    "location"      : "Ruine Waldkirch"
+  },
+  {
+    "url"           : "https://www.stadt-waldkirch.de/site/Waldkirch/get/params_E788304163/2192185/currentWK.jpg",
+    "page"          : "https://www.stadt-waldkirch.de/site/Waldkirch/node/2192170",
+    "name"          : "Waldkirch",
+    "description"   : "Blick über die Stadt Waldkirch",
+    "location"      : "Waldkirch"
+  },
+  {
+    "url"           : "https://www.eichbergturm.de/webcam/webcam_s/webcam_s.jpg",
+    "page"          : "https://www.eichbergturm.de/webcam-bilder.html",
+    "name"          : "Eichbergturm",
+    "description"   : "Blick vom Eichbergturm zum Kandel",
+    "location"      : "Eichbergturm"
+  },
+  {
+    "url"           : "https://www.eichbergturm.de/webcam/webcam_w/webcam_w.jpg",
+    "page"          : "https://www.eichbergturm.de/webcam-bilder.html",
+    "name"          : "Eichbergturm",
+    "description"   : "Blick vom Eichbergturm zum Kaiserstuhl",
+    "location"      : "Eichbergturm"
+  },
+  {
+    "url"           : "https://www.eichbergturm.de/webcam/webcam_Sw/webcam_Sw.jpg",
+    "page"          : "https://www.eichbergturm.de/webcam-bilder.html",
+    "name"          : "Eichbergturm",
+    "description"   : "Blick vom Eichbergturm Richtung Freiburg",
+    "location"      : "Eichbergturm"
+  },
+  {
+    "url"           : "https://www.eichbergturm.de/webcam/webcam_o/webcam_o.jpg",
+    "page"          : "https://www.eichbergturm.de/webcam-bilder.html",
+    "name"          : "Eichbergturm",
+    "description"   : "Blick vom Eichbergturm Richtung Freiamt",
+    "location"      : "Eichbergturm"
+  },
+  {
+    "url"           : "https://www2.klausenhof-dreisamtal.de/feldbergblick.jpg",
+    "page"          : "https://www.klausenhof-dreisamtal.de/webcam/",
+    "name"          : "Klausenhof",
+    "description"   : "Blick über das Dreisamtal in Richtung Feldberg",
+    "location"      : "Stegen, Hintereschbach"
+  },
+  {
+    "url"           : "https://uebernachten.dreisamtal.de/clips/m1test.jpg",
+    "page"          : "https://www.dreisamtal.de/service/webcam-wetter",
+    "name"          : "Oberried",
+    "description"   : "Blick auf das Kloster in Oberried bei Kirchzarten",
+    "location"      : "Kloster Oberried"
+  },
+  {
+    "url"           : "https://gutach.it-wms.com/current1.jpg",
+    "page"          : "https://www.sommerrodelbahn-gutach.de/unternavi/webcams/",
+    "name"          : "Rodelbahn Gutach",
+    "description"   : "Blick von der Bergstation der Sommerrodelbahn Gutach",
+    "location"      : "Rodelbahn Gutach"
+  },
+  {
+    "url"           : "https://unterstmatt.de/files/webcam/unterstmatt/current.jpg",
+    "page"          : "https://unterstmatt.de/webcam.html",
+    "name"          : "Unterstmatt",
+    "description"   : "Blick zum Babylift mit Schirmbar des Skizirkus Unterstmatt",
+    "location"      : "Unterstmatt"
+  },
+  {
+    "url"           : "https://www.sis-projekt.de/webcam_notschrei/notschrei1.jpg",
+    "page"          : "http://nordiccenter.sis-projekt.de/",
+    "name"          : "Notschrei",
+    "description"   : "Blick auf die Anlage der Sparkassen Arena des Nordic-Center Notschrei",
+    "location"      : "Nordic-Center Notschrei"
+  },
+  {
+    "url"           : "https://www.sis-projekt.de/webcam_notschrei/mx10-8-71-231/dlink-6511/shooting2.jpg",
+    "page"          : "http://nordiccenter.sis-projekt.de/",
+    "name"          : "Notschrei",
+    "description"   : "Blick auf die Anlage der Sparkassen Arena des Nordic-Center Notschrei",
+    "location"      : "Nordic-Center Notschrei"
+  },
+  {
+    "url"           : "https://www.notschrei-loipe.de/notschrei-loipe.jpg",
+    "page"          : "http://nordiccenter.sis-projekt.de/",
+    "name"          : "Notschrei",
+    "description"   : "Blick vom Loipenhaus des Nordic-Center Notschrei",
+    "location"      : "Nordic-Center Notschrei"
+  },
+  {
+    "url"           : "https://achern.de/tools/webcam/webcam/achern-rathaus1.jpg",
+    "page"          : "https://www.achern.de/de/Webcam/Webcam-Rathaus-am-Markt",
+    "name"          : "Achern",
+    "description"   : "Blick auf den Rathausplatz",
+    "location"      : "Rathaus Aachern"
+  },
+  {
+    "url"           : "http://www.blumen-weindorf-wetter.de/webcam.jpg",
+    "page"          : "http://www.blumen-weindorf-wetter.de/webcam2.htm",
+    "name"          : "Sasbachwalden",
+    "description"   : "Blick über das Dorf Sasbachwalden in die Rheinebene",
+    "location"      : "Sasbachwalden"
+  },
+  {
+    "url"           : "https://borkies.de/cam2/Startplatz.jpg?1651918275183",
+    "page"          : "https://borkies.de/webcams",
+    "name"          : "Schloßberg Sasbachwalden",
+    "description"   : "Blick über den Gleitschirmstartplatz ins Rheintal",
+    "location"      : "Gleitschirmstartplatz Schloßberg Sasbachwalden"
+  },
+  {
+    "url"           : "https://borkies.de/cam1/test/Borkies-Landeplatz_0.jpg",
+    "page"          : "https://borkies.de/webcams",
+    "name"          : "Sasbachwalden",
+    "description"   : "Blick über die Gleitschirm Landeweise in Sasbachwalden",
+    "location"      : "Landewiese am Holzwurm, Sasbachwalden"
+  },
+  {
+    "url"           : "http://5o0dmz6pxsbmlm46.myfritz.net/local/",
+    "page"          : "http://5o0dmz6pxsbmlm46.myfritz.net/local/",
+    "name"          : "Sasbachwalden",
+    "description"   : "360° Grad Blick auf der Eck in Sasbachwalden. Steuerbarer Livestream.",
+    "location"      : "Auf der Eck, Sasbachwalden"
+  },
+  {
+    "url"           : "http://webcam.terrassenpark-brandmatt.de/webcam_terrassenpark_brandmatt_live.jpg",
+    "page"          : "https://www.terrassenpark-brandmatt.de/webcams/webcam-terrassenpark-brandmatt-sasbachwalden",
+    "name"          : "Sasbachwalden",
+    "description"   : "Blick von Brandmatt",
+    "location"      : "Ferienwohnungsanlage Brandmatt, Sasbachwalden"
+  },
+  {
+    "url"           : "https://www.alpirsbach.net/ipcamview.php",
+    "page"          : "https://www.alpirsbach.net/schwarzwald-urlaub-tipps/webcam-ferienhaus-schwarzwald.html",
+    "name"          : "Alpirsbach",
+    "description"   : "Blick zum Benediktinerkloster in Alpirsbach",
+    "location"      : "Schillerstraße Alpirsbach"
+  },
+  {
+    "url"           : "https://www.freudenstadt.de/assets/Tools/imgResizer/index.php?id=1",
+    "page"          : "https://www.freudenstadt.de/wintersport",
+    "name"          : "Freudenstadt",
+    "description"   : "Blick auf den unteren Marktplatz in Freudenstadt",
+    "location"      : "Stadthaus Freudenstadt"
+  },
+  {
+    "url"           : "https://www.freudenstadt.de/assets/Tools/imgResizer/index.php?id=2",
+    "page"          : "https://www.freudenstadt.de/wintersport",
+    "name"          : "Freudenstadt",
+    "description"   : "Blick auf den oberen Marktplatz in Freudenstadt",
+    "location"      : "Oberer Marktplatz Freudenstadt"
+  },
+  {
+    "url"           : "http://webcam.itteleservice.de/webcams/kniebis-webcam/aktuell_00001.jpg",
+    "page"          : "https://www.freudenstadt.de/wintersport",
+    "name"          : "Kniebis",
+    "description"   : "Blick über den Ort Kniebis, Freudenstadt",
+    "location"      : "Kniebis Ort"
+  },
+  {
+    "url"           : "http://webcam.itteleservice.de/webcams/kniebishuette-webcam/kniebishuette.jpg",
+    "page"          : "https://www.kniebis.de/webcams/",
+    "name"          : "Kniebis",
+    "description"   : "Blick vom Besucherzentrum Kniebis, Freudenstadt",
+    "location"      : "Besucherzentrum Kniebis"
+  },
+  {
+    "url"           : "http://webcam.itteleservice.de/webcams/nachtloipe-webcam/skicam.jpg",
+    "page"          : "https://schaller-werbeagentur.de/svkniebis/loipen/loipenbericht/",
+    "name"          : "Kniebis",
+    "description"   : "Blick über das Skistadion Kniebis",
+    "location"      : "Skistadtion Kniebis"
+  },
+  {
+    "url"           : "http://webcam.itteleservice.de/webcams/nachtloipe-webcam/skihuette.jpg",
+    "page"          : "https://schaller-werbeagentur.de/svkniebis/loipen/loipenbericht/",
+    "name"          : "Skihütte Kniebis",
+    "description"   : "Blick auf die Loipe an der Skihütte Kniebis, Freudenstadt",
+    "location"      : "Skihütte Kniebis"
+  },
+  {
+    "url"           : "http://webcam.itteleservice.de/webcams/nachtloipe-webcam/skicam2.jpg",
+    "page"          : "https://schaller-werbeagentur.de/svkniebis/loipen/loipenbericht/",
+    "name"          : "Skistadion Kniebis",
+    "description"   : "Blick in das Skistadtion Kniebis",
+    "location"      : "Skistadion Kniebis, Freudenstadt"
+  },
+  {
+    "url"           : "https://jkab-media.com/cam/jkab_media_webcam.jpg",
+    "page"          : "https://jkab-media.com/webcam/",
+    "name"          : "Lochwald",
+    "description"   : "Blick Richtung Rheinebene",
+    "location"      : "Lochwald, Lauf"
+  },
+  {
+    "url"           : "http://www.buehlertal-online.de/webcam/camera.jpg",
+    "page"          : "http://www.buehlertal-online.de/webcam/",
+    "name"          : "Bühlertal",
+    "description"   : "Blick auf die Schoferstraße Büchelbach",
+    "location"      : "Schoferstraße, Büchelbach"
+  },
+  {
+    "url"           : "https://www.muellerbauernhof.de/webcam/current.jpg",
+    "page"          : "https://www.muellerbauernhof.de/webcam-de/",
+    "name"          : "Maisach",
+    "description"   : "Blick in das Maisachtal",
+    "location"      : "Müllerbauernhof Maisach"
+  },
+  {
+    "url"           : "https://vogelskopf.de/webcam/Zuflucht_R1.jpg",
+    "page"          : "https://vogelskopf.de/skilift-zuflucht/",
+    "name"          : "Zuflucht",
+    "description"   : "Blick auf den Skilift Zuflucht",
+    "location"      : "Skilift Zuflucht"
+  },
+  {
+    "url"           : "https://vogelskopf.de/webcam/Zuflucht_R2.jpg",
+    "page"          : "https://vogelskopf.de/skilift-zuflucht/",
+    "name"          : "Zuflucht",
+    "description"   : "Blick auf den Funpark am Skilift Zuflucht",
+    "location"      : "Skilift Zuflucht"
+  },
+  {
+    "url"           : "https://www.cafe-feldbergblick.de/webcam.jpg",
+    "page"          : "https://www.cafe-feldbergblick.de/webcam_titisee_neustadt.html",
+    "name"          : "Schwärzenbach",
+    "description"   : "Blick zum Feldberg und Hochfirst von Ahornhäusern aus",
+    "location"      : "Cafe Feldbergblick Schwärzenbach"
+  },
+  {
+    "url"           : "https://www.cafe-feldbergblick.de/webcam_platzberg.jpg",
+    "page"          : "https://www.cafe-feldbergblick.de/webcam_titisee_neustadt.html",
+    "name"          : "Schwärzenbach",
+    "description"   : "Blick zum Spielpatz Platzberg",
+    "location"      : "Cafe Feldbergblick"
+  },
+  {
+    "url"           : "http://engel.schwaerzenbach.de/canon2.jpg",
+    "page"          : "http://www.engel-hochberg.de/st_web.htm",
+    "name"          : "Hochberg",
+    "description"   : "Steuerbare Webcam am Gasthaus Engel, Hochberg",
+    "location"      : "Hochberg, Schollach"
+  },
+  {
+    "url"           : "https://haberjockelshof.de/webcam/haberjockelshof640.jpg",
+    "page"          : "https://haberjockelshof.de",
+    "name"          : "Schwärzenbach",
+    "description"   : "Blick vom Haberjockelshof, Titisee-Neustadt",
+    "location"      : "Haberjockelshof"
+  },
+  {
+    "url"           : "https://www.stadtwerke-schramberg.de/tools/webcams/index.php?image=cameras/wasserturm/wasserturm.jpg",
+    "page"          : "https://www.stadtwerke-schramberg.de/de/Aktuelles/Webcams",
+    "name"          : "Sulgen",
+    "description"   : "Blick vom Wasserturm Sulgen, Schramberg",
+    "location"      : "Wasserturm Sulgen"
+  },
+  {
+    "url"           : "https://www.stadtwerke-schramberg.de/tools/webcams/index.php?image=cameras/waldmoessingen/aktuell.jpg",
+    "page"          : "https://www.stadtwerke-schramberg.de/de/Aktuelles/Webcams",
+    "name"          : "Waldmössingen",
+    "description"   : "Blick vom Wasserturm Waldmössingen, Schramberg",
+    "location"      : "Wasserturm Waldmössingen"
+  },
+  {
+    "url"           : "https://www.stadtwerke-schramberg.de/tools/webcams/index.php?image=cameras/freibad/webcam_freibad.jpg",
+    "page"          : "https://www.stadtwerke-schramberg.de/de/Aktuelles/Webcams",
+    "name"          : "Tennenbronn",
+    "description"   : "Blick über das Freibad Tennenbronn, Schramberg",
+    "location"      : "Freibad Tennenbronn"
+  },
+  {
+    "url"           : "https://www.waldachtal.de/webcam/Bilder/Cam0001.jpg",
+    "page"          : "https://www.waldachtal.de",
+    "name"          : "Lützenhardt",
+    "description"   : "Blick vom Feuerwerhaus Lützenhardt, Waldachtal",
+    "location"      : "Feuerwehrhaus Lützenhardt"
+  },
+  {
+    "url"           : "https://stokinger.greatbear.de/webtool/webcam/stokinger-freudenstadt-webcam.jpg",
+    "page"          : "https://wintersport-stokinger.de/webcam.html",
+    "name"          : "Skilift Stokinger",
+    "description"   : "Blick von der Talstation des Skilifts Stokinger, Freudenstadt",
+    "location"      : "Skilift Stokinger"
+  },
+  {
+    "url"           : "https://www.gcfreudenstadt.de/fileadmin/webcams/Terasse/image.jpg",
+    "page"          : "https://www.gcfreudenstadt.de/index.php?id=602&amp;no_cache=1",
+    "name"          : "Golfplatz Freuendstadt",
+    "description"   : "Blick über den Golfplatz Freudenstadt",
+    "location"      : "Golf-Club Freudenstadt"
+  },
+  {
+    "url"           : "http://webcam.fg-freudenstadt.de/Vorplatz.jpg",
+    "page"          : "http://fg-freudenstadt.de/",
+    "name"          : "Flugplatz Musbach",
+    "description"   : "Blick über den Vorplatz nach Süden",
+    "location"      : "Fluplatz Musbach Freudenstadt"
+  },
+  {
+    "url"           : "http://webcam.fg-freudenstadt.de/Panorama.jpg",
+    "page"          : "http://fg-freudenstadt.de/",
+    "name"          : "Flugplatz Musbach",
+    "description"   : "Blick über die Piste nach Osten",
+    "location"      : "Fluplatz Musbach Freudenstadt"
+  },
+  {
+    "url"           : "http://fg-fds.de/webcam/webcam.jpg",
+    "page"          : "http://fg-freudenstadt.de/",
+    "name"          : "Flugplatz Musbach",
+    "description"   : "Blick in die Arthur-Fischer Halle",
+    "location"      : "Fluplatz Musbach Freudenstadt"
+  },
+  {
+    "url"           : "http://webcam.fg-freudenstadt.de/Spielplatz.jpg",
+    "page"          : "http://fg-freudenstadt.de/",
+    "name"          : "Flugplatz Musbach",
+    "description"   : "Blick über den Spielplatz Richtung Nord",
+    "location"      : "Fluplatz Musbach Freudenstadt"
+  },
+  {
+    "url"           : "https://kniebishuette.de/files/webcam/kniebis-aussen-rechts.jpg",
+    "page"          : "https://kniebishuette.de/webcam.html",
+    "name"          : "Kniebishütte",
+    "description"   : "Blick zum Skilift Lamm",
+    "location"      : "Wanderhütte bei Kniebis"
+  },
+  {
+    "url"           : "https://waldblick-kniebis.de/camera/current.jpg",
+    "page"          : "http://waldblick-kniebis.de/waldblick-webcam/",
+    "name"          : "Waldblick Kniebis",
+    "description"   : "Blick auf das Waldblick Hotel Kniebis, Freudenstadt",
+    "location"      : "Waldblick Hotel, Eichelbachstraße, Kniebis"
+  }
+]
